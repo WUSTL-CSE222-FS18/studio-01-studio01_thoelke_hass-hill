@@ -8,6 +8,9 @@ You should review all the class policies and post any questions or clarification
 
 ***Q1.0 Please acknowledge that you will review the class policies and, if necessary, ask for any clarifications by Wed, Sept. 5.  Each person should type their name below to acknowledge this request:***
 
+Grace Hass-Hill,
+Jessica Thoelke
+
 # Part 1: Choose your own IoT Adventure
 
 These will be timed activities.  Please note the timer and be sure to use your time wisely.
@@ -17,6 +20,9 @@ These will be timed activities.  Please note the timer and be sure to use your t
 Your group will be both a "Customer" and a "Designer".  First you'll prepare for your Customer role.  Browse through the "Mission" cards and select the one that interests you. You may use either the specific example on the card or be creative and try to develop another example that fits the goal given on the card. Any discussions with  Designers should not reveal the specific example you have in mind.  Try to really think about the example and how it would fit into your life as a customer. Try to build an entire story around it.  Make sure you have a clear vision in mind.
 
 ***Q1.1 Briefly describe your Mission:***
+
+Our mission is to create an object that saves us time by removing a normal task. More specifically, we want to create a washing machine that automatically orders new detergent when it is running low.
+
 
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
 
@@ -28,6 +34,9 @@ Find another group to work with. The other group should be students who neither 
 
 ***Q1.2 Share some notes from your interview here and try to describe the "need" with a very brief description:***
 
+Cell phones have a lot of radiation, goal: to create a concept that gives health benefits to user or
+stops radiation from cell phones, underlying goal: immortality
+
 (6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that space)
 
 ## Part 1.4: Proposing solutions (8 minutes)
@@ -36,6 +45,13 @@ Return to your original locations.  In this step all groups will act like Design
 
 ***Q1.3 Briefly describe your solutions (use a list) and any strengths/weaknesses you see.***
 
+1. Phone case that reduces radiation
+  1. Strengths: Keeps user safer, normal to have a phone case, measure how much radiation it's blocking
+  1. Weaknesses: Not completely effective, an extra item to carry around, bulky
+1. Bluetooth headphones
+  1. Strengths: Normalized, already integrated into society, can be used to phone calls, music, etc.
+  1. Weaknesses: An extra item to carry around
+
 ## Part 1.5: Feedback (10 minutes total)
 
 Meet with your corresponding group again. And, again, select which set will be Designers first.
@@ -43,6 +59,9 @@ Meet with your corresponding group again. And, again, select which set will be D
 (5 minutes) Designers:  Present your solutions and get the Customers' feedback.  As a Designer you should be open to any initial reactions.  Customers: think carefully about your original "need" and try to give both pros and cons of the proposed solutions.
 
 ***Q1.4 Designers: Briefly summarize their feedback for each solution:***
+
+1. Should be a smart phone case to detect if your phone is radiating too much and close app if it is
+1. Already exist, potentially dangerous if you wear them too much, too bulky and uncomfortable
 
 (4 minutes): Reverse roles.  Designers: Fill in your answers to the question above.
 
@@ -54,11 +73,17 @@ In this phase everyone is thinking like a Designer.  Design thinking also relies
 
 ***Q1.5 Based on the feedback, how might you change your solution?***
 
+For our phone case, we would make it "smarter," meaning that it would monitor the amount of radiation and respond accordingly. More specifically, it would vibrate when the levels get above a certain threshold. It could also close apps to lower the radiation levels. For the Bluetooth headphones, we would likely change the design in order to make them more comfortable.
+
 ## Part 1.7 Evaluation (5 minutes)
 
 Switch back to being a Customer and thinking about the product you want and the need it should meet.  Pick three (3) Criteria cards that are most important to you and order them from most important to least important.
 
 ***Q1.6 List your three top Criteria:***
+
+1. User friendly
+1. Utility
+1. Sustainability
 
 ## Part 1.8: More Feedback (10 minutes total)
 
@@ -68,7 +93,11 @@ Meet with your corresponding group again. And, again, select which set will be D
 
 ***Q1.7 Briefly summarize your findings as a Designer.  Is the customer happy with your work?  How could it be further improved?***
 
+The customers are happy with our work. It could be further improved by moving the radiation monitor elsewhere to make the case less bulky. The phone case can still respond to the radiation levels, but does not need to be the device to track them.
+
 ***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?***
+
+The proposed solution will meet our needs because the app directly orders detergent when we are running low, saving us valuable time. Yes, it was different than what we expected because we did not originally picture this is an app.
 
 (5 minutes): Reverse roles.  Designers and Customers: Fill in your answers to the question above.
 
@@ -83,11 +112,29 @@ Part of the goal of today's studio was to provide you some "menus" for:
 
 ***Q2.1 Without reviewing the cards, provide three examples of each type of card along with a brief description (try your best).  Add your answers as a sub-list for each type here:***
 - Criteria
-- Things
-- Services
-- Feedback
-- Human Actions
-- Missions
+  1. Utility
+  1. Social status
+  1. Sustainability
+- Things:
+  1. Watch
+  1. Jewelry
+  1. Pets
+- Services:
+  1. Google Drive
+  1. Instagram
+  1. Facebook
+- Feedback:
+  1. Vibration
+  1. Shape shifting
+  1. Text
+- Human Actions:
+  1. Drop
+  1. Shake
+  1. Lift
+- Missions:
+  1. Immortality
+  1. Time saving
+  1. Trojan horse
 
 ### Contrast
 
