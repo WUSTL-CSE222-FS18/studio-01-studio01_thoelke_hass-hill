@@ -112,9 +112,9 @@ Part of the goal of today's studio was to provide you some "menus" for:
 
 ***Q2.1 Without reviewing the cards, provide three examples of each type of card along with a brief description (try your best).  Add your answers as a sub-list for each type here:***
 - Criteria
-  1. Utility: how usable the device is
-  1. Social status
-  1. Sustainability
+  1. Utility: how usable and practical the device is
+  1. Creativity: how unique and clever the iot device solves the problem
+  1. Sustainability: how environmentally friendly the device is
 - Things:
   1. Watch: object to show the time
   1. Jewelry: object worn as jewelry, like earrings
@@ -124,8 +124,8 @@ Part of the goal of today's studio was to provide you some "menus" for:
   1. Instagram: photo posting website
   1. Facebook: a social media sharing site
 - Feedback:
-  1. Vibration: 
-  1. Shape shifting: 
+  1. Vibration: the object vibrates
+  1. Shape shifting: the object is able to change its shape
   1. Text: the object user text for the user to read as feedback
 - Human Actions:
   1. Drop: the user drops the object
@@ -139,3 +139,6 @@ Part of the goal of today's studio was to provide you some "menus" for:
 ### Contrast
 
 ***Q2.2 In Studio 0 you were supposed to evaluate three examples of IoT. In many cases the examples may not be able to be represented using the cards.  Provide some examples of cards that you think should be added to the deck, either based on the examples from Studio 0, or from this Studio, or based on your own interests.  Be sure to specify the suit (Mission, Thing, Services, Human Interactions, Feedback, and Criteria) as well as a brief description:***
+1. 
+1. 
+1. 
