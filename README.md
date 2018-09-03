@@ -116,25 +116,25 @@ Part of the goal of today's studio was to provide you some "menus" for:
   1. Social status
   1. Sustainability
 - Things:
-  1. Watch
-  1. Jewelry
-  1. Pets
+  1. Watch: object to show the time
+  1. Jewelry: object worn as jewelry, like earrings
+  1. Pets: an animal kept as a pet
 - Services:
   1. Google Drive: cloud service for documents
   1. Instagram: photo posting website
-  1. Facebook
+  1. Facebook: a social media sharing site
 - Feedback:
-  1. Vibration
-  1. Shape shifting
-  1. Text 
+  1. Vibration: 
+  1. Shape shifting: 
+  1. Text: the object user text for the user to read as feedback
 - Human Actions:
-  1. Drop
-  1. Shake
-  1. Lift
+  1. Drop: the user drops the object
+  1. Shake: the user shakes the object
+  1. Lift: the user raises the object up
 - Missions:
-  1. Immortality
-  1. Time saving
-  1. Trojan horse
+  1. Immortality: something that can give the user health benefits, or save something past their death
+  1. Time saving: anything that can help someone save time
+  1. Trojan horse: trojan horse objects perform an unexpected action
 
 ### Contrast
 
