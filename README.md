@@ -37,7 +37,7 @@ Find another group to work with. The other group should be students who neither 
 Cell phones have a lot of radiation, goal: to create a concept that gives health benefits to user or
 stops radiation from cell phones, underlying goal: immortality
 
-(6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that space)
+(6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that sp ace)
 
 ## Part 1.4: Proposing solutions (8 minutes)
 
@@ -112,7 +112,7 @@ Part of the goal of today's studio was to provide you some "menus" for:
 
 ***Q2.1 Without reviewing the cards, provide three examples of each type of card along with a brief description (try your best).  Add your answers as a sub-list for each type here:***
 - Criteria
-  1. Utility
+  1. Utility: how usable the device is
   1. Social status
   1. Sustainability
 - Things:
@@ -120,13 +120,13 @@ Part of the goal of today's studio was to provide you some "menus" for:
   1. Jewelry
   1. Pets
 - Services:
-  1. Google Drive
-  1. Instagram
+  1. Google Drive: cloud service for documents
+  1. Instagram: photo posting website
   1. Facebook
 - Feedback:
   1. Vibration
   1. Shape shifting
-  1. Text
+  1. Text 
 - Human Actions:
   1. Drop
   1. Shake
