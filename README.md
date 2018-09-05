@@ -139,6 +139,6 @@ Part of the goal of today's studio was to provide you some "menus" for:
 ### Contrast
 
 ***Q2.2 In Studio 0 you were supposed to evaluate three examples of IoT. In many cases the examples may not be able to be represented using the cards.  Provide some examples of cards that you think should be added to the deck, either based on the examples from Studio 0, or from this Studio, or based on your own interests.  Be sure to specify the suit (Mission, Thing, Services, Human Interactions, Feedback, and Criteria) as well as a brief description:***
-  1. 
-  1. 
-  1. 
+  1. YouTube-- service, a service that allows users to post videos both privately and publicly
+  1. Water bottle-- thing, an object that holds liquid
+  1. Light bulb-- thing, a unit that emits light 
